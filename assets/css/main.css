@@ -1785,12 +1785,12 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		color: #800000;
+		color: #8c0000;
 		font-size: 3.5em;
 	}
 
 		header.major h2 + p {
-			color: #80000;
+			color: #8c0000;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -2789,7 +2789,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5b7d13; <!-- ancienne couleur #5ccfb1 -->
+					border-top: solid 2px #5b7d13; <!-- ancienne couleur #5ccfb1 couleur des liens -->
 					display: block;
 					padding: 0;
 				}
