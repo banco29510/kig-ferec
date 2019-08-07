@@ -2800,7 +2800,7 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #5b7d13 !important; <!-- couleur des carrees -->
+						color: #5b7d13 !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
