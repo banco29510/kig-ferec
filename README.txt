@@ -1,9 +1,23 @@
-Site web statique
+SITE WEB STATIQUE KIG FEREC:
 
-installer à la racine
+    Installer à la racine du site web(des bugs sont présent en local )
 
-utilise :
+  Utilise :
 
-- Jquery
-- google fonts
-- etc.
+    - Jquery
+    - google fonts
+    - etc.
+
+  Template :
+
+    https://html5up.net/read-only
+
+  Référencement :
+
+    Code en bas de la page index.html
+
+  Optimisation des images :
+
+    http://imageoptimizer.net/Pages/Home.aspx
+    https://compressor.io/
+    https://kraken.io/
