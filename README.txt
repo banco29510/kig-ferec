@@ -1,11 +1,11 @@
-SITE WEB STATIQUE KIG FEREC:
+SITE WEB STATIQUE KIG FEREC :
 
-    Installer à la racine du site web(des bugs sont présent en local )
+  Installer à la racine du site web (des bugs sont présent en local )
 
   Utilise :
 
     - Jquery
-    - google fonts
+    - google fonts (https://fonts.google.com/specimen/Francois+One)
     - etc.
 
   Template :
@@ -21,3 +21,8 @@ SITE WEB STATIQUE KIG FEREC:
     http://imageoptimizer.net/Pages/Home.aspx
     https://compressor.io/
     https://kraken.io/
+
+    A faire avant mise en production
+
+Version 0.5
+Dernière modification : 22/09/2019
