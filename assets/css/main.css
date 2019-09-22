@@ -2720,11 +2720,11 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #b7eadc;
+			color: #5b7d13;  /* couleur de selection quand on selection en bleu  #b7eadc */
 		}
 
 		#header a {
-			color: #d2f2e9;
+			color: #5b7d13; /* couleur de selection quand on selection en bleu  #d2f2e9 */
 		}
 
 			#header a:hover {
