@@ -1,6 +1,6 @@
 SITE WEB STATIQUE KIG FEREC :
 
-  Installer à la racine du site web (des bugs sont présent en local )
+  Installer à la racine du site web (des bugs sont présent en local)
 
   Utilise :
 
@@ -22,7 +22,6 @@ SITE WEB STATIQUE KIG FEREC :
     https://compressor.io/
     https://kraken.io/
 
-    A faire avant mise en production
 
 Version 0.5
-Dernière modification : 22/09/2019
+Dernière modification : 27/10/2019
