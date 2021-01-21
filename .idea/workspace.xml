@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b592064-db24-489b-8564-5b1089fe1c9d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kig-ferec.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/laboratoire.jpg" afterDir="false" />
+    <list default="true" id="5b592064-db24-489b-8564-5b1089fe1c9d" name="Default Changelist" comment="11/01/2021 12:26 ajout test laboratoire">
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +30,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="aab625caf97ea918df158f63e00280d5af913df5" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mv8HbPsuhvMA5xwjPn9EmDsGJG" />
@@ -63,6 +65,14 @@
       <option name="presentableId" value="Default" />
       <updated>1610362617590</updated>
     </task>
+    <task id="LOCAL-00001" summary="11/01/2021 12:26 ajout test laboratoire">
+      <created>1610364405178</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610364405178</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -75,5 +85,16 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="11/01/2021 12:26 ajout test laboratoire" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/01/2021 12:26 ajout test laboratoire" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610364853388">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/-1366.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1610364853388" />
   </component>
 </project>
